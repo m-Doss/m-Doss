@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m-Doss
 - 👀 I’m interested in ... Everything Data
-- 🌱 I’m currently learning ... Data Warehousing 
+- 🌱 I’m currently learning ... Data Modeling and data Warehousing 
 - 💞️ I’m looking to collaborate on ... Data Engineering Projects
 - 📫 How to reach me ... 1999.aldoss@gmail.com
 
