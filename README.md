@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Everything Data
 - 🌱 I’m currently learning ... Data Modeling and data Warehousing 
 - 💞️ I’m looking to collaborate on ... Data Engineering Projects
-- 📫 How to reach me ... 1999.aldoss@gmail.com
+- 📫 How to reach me ... Malek.TAldoss@gmail.com
 
 <!---
 m-Doss/m-Doss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
