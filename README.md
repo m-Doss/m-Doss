@@ -11,7 +11,9 @@ Technical Skills
 
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
 <!---
 m-Doss/m-Doss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
