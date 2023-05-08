@@ -7,7 +7,8 @@
 
 Technical Skills
 
-![flask](https://user-images.githubusercontent.com/100002726/236901747-d0aa3f1e-51d0-47a9-9e04-eabe68cd23ef.png)
+![flask](https://user-images.githubusercontent.com/100002726/236901747-d0aa3f1e-51d0-47a9-9e04-eabe68cd23ef.png) ![python](https://user-images.githubusercontent.com/100002726/236901854-c53d1a17-ec18-439b-aa90-330aa27d36cd.png)
+
 
 
 <!---
